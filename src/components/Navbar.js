@@ -31,7 +31,10 @@ handleClick=()=>{
           </li>
           );
          })}
-          <button>Sign Up</button>
+         
+          {/* <button className="nav-links" >
+            <Link to="/signup"  >Sign Up/ Login</Link> </button>
+         */}
         </ul>
       </nav>
     );

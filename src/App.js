@@ -7,6 +7,7 @@ import Contact from "./routes/Contact";
 import SignUp from "./routes/SignUp";
 import Navbar from "./components/Navbar";
 import SignUpForm from "./components/SignUpForm";
+import Login from "./routes/Login";
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
         <Route path="/service" element={<Service/>}/>
         <Route path="/contact" element={<Contact/>}/>
         <Route path="/signup" element={<SignUp/>}/>
+        <Route path="/login" element={<Login/>}/>
       </Routes>
      
   

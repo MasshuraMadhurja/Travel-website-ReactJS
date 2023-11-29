@@ -47,6 +47,10 @@ img{
 .hero-text .hide{
     display: none;
 }
+.hero-text a:hover{
+    background:#019590 ;
+    color: #fff;
+}
 
 @media screen and (max-width:555px) {
     .hero-text h1{

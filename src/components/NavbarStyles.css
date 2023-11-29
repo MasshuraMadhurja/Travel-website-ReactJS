@@ -35,17 +35,21 @@
   font-weight: 600;
   padding: 0.7rem 1rem;
   white-space: nowrap;
+  border: none;
+ 
 }
 .nav-links i {
   padding-right: 10px;
 }
 .nav-links:hover {
-  background-color: #019590;
+  background: #019590;
   color: #fff;
   border-radius: 4px;
   transition: all 0.2s;
 }
-
+button{
+  text-decoration: none;
+}
 .nav-links-mobile {
   display: none;
 }

@@ -1,20 +1,22 @@
 import "./SignUpFormStyle.css";
+import { Link } from "react-router-dom";
 
 function SignUpForm() {
   return (
     <div className="from-container">
-      <h1>Send a message to us!</h1>
+      <h1>Create an Account!</h1>
       <form action="">
         <input type="text"
                placeholder="Name" />
  <input type="email"
                placeholder="Email" />
-     <input type="text"
-               placeholder="Subject" />
-       <input type="text"
-               placeholder="Message"
-               rows="4" />
-        <button>Send Message</button>
+     <input type="password"
+               placeholder="Password" />
+       <input type="password"
+               placeholder="Confirm Password" />
+        <button>Submit Now</button>
+        <p className="sign-p"> Already have an account?  
+         <Link to="/login" className="login-link" > Login</Link> instead.</p>
       </form>
     </div>
   );
