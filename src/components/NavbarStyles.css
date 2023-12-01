@@ -50,9 +50,9 @@
 button{
   text-decoration: none;
 }
-.nav-links-mobile {
+/* .nav-links-mobile {
   display: none;
-}
+} */
 button {
   padding: 0.5rem 1rem;
   white-space: nowrap;
