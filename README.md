@@ -8,6 +8,14 @@
 
 Welcome to the Travel Website, a ReactJS project that lets users explore and plan their dream vacations. This website is designed to provide an immersive experience, showcasing beautiful destinations and offering interactive features for travel planning.
 
+![screenshot](https://github.com/MasshuraMadhurja/Travel-website-ReactJS/assets/83574137/598e4efa-60e1-4248-a0fc-4dd614fe4a7d)
+Mobile View
+
+
+https://github.com/MasshuraMadhurja/Travel-website-ReactJS/assets/83574137/70a14099-dee4-4f98-bc5f-b6ae34b62d3a
+
+
+
 ## Features
 
 - **Responsive Design:** The website is crafted with a responsive layout, ensuring a seamless experience across various devices, from desktops to mobile devices.
